@@ -36,3 +36,10 @@ Skills: UNİTY / ASP.NET / JS / HTML / CSS /PHP /FLUTTER
 ![Profile views](https://gpvc.arturio.dev/https://github.com/saltaneren)  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saltaneren)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
